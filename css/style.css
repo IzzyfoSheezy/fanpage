@@ -50,3 +50,38 @@ border-radius:360px;
     justify-content:center;
     background-color:black;
 }
+.navbar{
+    background-color:black;
+    display:flex;
+    justify-content:space-between;
+}
+.navbarcolor{
+    color:white;
+}
+.AOT{
+    display:flex;
+    justify-content:space-around;
+    height:50%;
+    width:100%;
+}
+
+.About{
+    background-color:black;
+    color:white;
+}
+
+.footer2{
+    background-color:black;
+    display:flex;
+    justify-content:center;
+}
+
+#Bio{
+    color:white;
+    background-color:black;
+    display:flex;
+    justify-content:center;
+    height:150%;
+    width:100%;
+}
+
